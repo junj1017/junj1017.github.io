@@ -1,0 +1,62 @@
+import img from "../assets/Images/tba.png"
+export const Blogs = [
+    {
+        id:1,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+    },
+    {
+        id:2,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://codebucks.hashnode.dev/react-hamburger-menu"
+    },
+    {
+        id:3,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+    },
+    {
+        id:4,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+    },
+    {
+        id:5,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+    },
+    {
+        id:6,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+
+    },
+   
+    {
+        id:7,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+    },
+    {
+        id:8,
+        name:"TBA",
+        tags:[],
+        imgSrc:img,
+        //link:"https://dev.to/codebucks/build-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-2f10"
+    },
+  
+]
